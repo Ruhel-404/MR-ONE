@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import os, platform, time, sys
 os.system('xdg-open https://m.me/j/AbYrI1YW5z1q0f8q/')
 os.system('git pull --quiet 2>/dev/null')
